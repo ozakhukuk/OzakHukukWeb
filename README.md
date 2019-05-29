@@ -1,29 +1,20 @@
-# README #
+# ÖZ&AK HUKUK #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+ÖZ&AK HUKUK Türk Hukuku Avukatlık Bürosu.
 
-### What is this repository for? ###
+### Uzmanlık alanlarımız ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+Alanlarında 20 yıl ve üzeri deneyimli Türk Hukuku uzmanı avukatlardan oluşan büromuzda;
+* Aile Hukuku - Boşanma - Velayet - Nafaka - Mal Paylaşımı
+* Miras Hukuku ve Mal Paylaşımı
+* Borçlar Hukuku
+* Kira Hukuku
+* İcra ve İflas Hukuku
+* Şirketler Hukuku
+* Ceza Hukuku
+* Trafik ve Sigorta Hukuku
+* Her türlü sözleşme, ihtarname ve dilekçe yazımı
+* Davaların Türkiye’de takibi
+Alanlarında uzman danışma ve Türkiye’de dava takip hizmetleri sunulmaktadır.
 
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+[Twitter Adresimiz](https://twitter.com/hukuk_oz)
