@@ -17,4 +17,4 @@ Alanlarında 20 yıl ve üzeri deneyimli Türk Hukuku uzmanı avukatlardan oluş
 * Davaların Türkiye’de takibi
 Alanlarında uzman danışma ve Türkiye’de dava takip hizmetleri sunulmaktadır.
 
-[Twitter Adresimiz](https://twitter.com/hukuk_oz)
+[Twitter Adresimiz](https://twitter.com/hukuk_oz) 
